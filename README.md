@@ -1,10 +1,10 @@
 # youtube-snapcast
-This is a shell script to start youtube video in VLC player and stream it to snapcast server for multiroom listening
+This is a shell script to start youtube video in VLC player and stream it to snapcast server for multiroom listening (Tested only on RPi 4) 
 
 
 Usage:
 
-You should have [Snapcast](https://github.com/badaix/snapcast) installed on your system. (Tested only on RPi 4) 
+You should have [Snapcast](https://github.com/badaix/snapcast) installed on your system. 
 
 
 Load PulseAudio pipe-sink module with below commands :
