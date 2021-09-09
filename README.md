@@ -16,6 +16,6 @@ Load PulseAudio pipe-sink module with below commands :
 
 
 
-Run this in command line: 
+Run this in command line and you should start to hear audio comming from your snapcast clients: 
 
 `./youtube_multiroom.sh "URL of youtube video"`
