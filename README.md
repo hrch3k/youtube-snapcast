@@ -13,5 +13,7 @@ Load the pipe-sink module in PulseAudio with commands below:
 
 
 
+
 Run this in command line: 
-'./youtube_multiroom.sh "URL of youtube video"'
+
+`./youtube_multiroom.sh "URL of youtube video"`
