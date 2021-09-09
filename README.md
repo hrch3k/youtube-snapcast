@@ -4,7 +4,7 @@ This is a shell script to start youtube video in VLC player and stream it to sna
 
 Usage:
 
-You should have Snapcast installed on your system. (Tested only on RPi 4)
+You should have [Snapcast](https://github.com/badaix/snapcast) installed on your system. (Tested only on RPi 4) 
 
 
 Load PulseAudio pipe-sink module with below commands :
