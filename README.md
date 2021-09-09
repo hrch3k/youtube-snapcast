@@ -5,7 +5,7 @@ Usage:
 You should have Snapcast installed on your system. (Tested only on RPi 4)
 
 
-Load the pipe-sink module in PulseAudio with commands below:
+Load PulseAudio pipe-sink module with below commands :
 
 `pacmd load-module module-pipe-sink file=/tmp/snapfifo sink_name=Snapcast format=s16le rate=48000`
 
