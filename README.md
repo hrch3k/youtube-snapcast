@@ -1,5 +1,5 @@
 # youtube-snapcast
-This is a shell script to start youtube video in VLC player and stream it to snapcast server for multiroom listening (Tested only on RPi 4) 
+This is a shell script to start youtube video in VLC player and stream it to snapcast server for multiroom listening (Tested on RPi 4 and Debian 10) 
 
 
 Usage:
