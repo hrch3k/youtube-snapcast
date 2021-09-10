@@ -4,7 +4,7 @@ This is a shell script to start youtube video in VLC player and stream it to sna
 
 Usage:
 
-You should have [Snapcast](https://github.com/badaix/snapcast) installed on your system. 
+You should have [Snapcast](https://github.com/badaix/snapcast) and [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) installed on your system. 
 
 
 Load PulseAudio pipe-sink module with below commands :
